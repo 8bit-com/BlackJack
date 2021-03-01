@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BlackJack.Const" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQABAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>Const.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Dealer" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dealer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Deck" Collapsed="true">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAEAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Game" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Gamer" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gamer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Player" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlackJack.Program" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BlackJack.Card" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Const.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="BlackJack.Suit" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAACAAgAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Const.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BlackJack.Value" Collapsed="true">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAgAAAEAAEAIAAAAAFBBAAAAgAAAgAAIA=</HashCode>
+      <FileName>Const.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
